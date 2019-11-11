@@ -1,2 +1,2 @@
-#This project contains this technologies:
+# This project contains this technologies:
 A socket project with vue, vue router, vuex, vuetify
